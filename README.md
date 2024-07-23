@@ -78,3 +78,16 @@ To add a new package, use the `use-package` syntax in the `.emacs` file:
   :config
   ;; Configuration here
   )
+```
+
+# Contributing
+Contributions are welcome! If you have improvements or suggestions, please open an issue or submit a pull request.
+
+# Authors
+David Christian Liedle (DavidCanHelp) - Senior Developer Evangelist, polymath, and mentor. You can find him online as @DavidCanHelp.
+ChatGPT - An AI language model by OpenAI, assisting in the development and customization of this Emacs configuration.
+
+# Acknowledgements
+This configuration file was developed through a collaborative process between DavidCanHelp and ChatGPT. The journey involved multiple iterations, troubleshooting, and refinement to achieve a functional and user-friendly Emacs setup. Special thanks to the Emacs community for providing extensive resources and documentation.
+
+We hope this Emacs configuration enhances your productivity and coding experience. Happy coding!
